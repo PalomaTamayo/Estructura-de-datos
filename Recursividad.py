@@ -1,4 +1,4 @@
-class Secundaria:
+class PuntosPlano:
 
     def __init__(self, promediox, promedioy, px1, px2, py1, py2):
         self.px = promediox
